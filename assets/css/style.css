@@ -1,0 +1,23 @@
+.navbar {
+    padding: 20px;
+    background-color: #4aaaa5;
+    margin-left: 150px;
+    margin-top: 0;
+
+}
+
+.navbar-brand  {
+    margin-left: 150px;
+}
+
+.nav {
+    margin-right: 150px;
+    padding-top: 30px;
+
+}
+
+.container-fluid {
+    border-bottom: 2px solid #cccccc;
+}
+
+
