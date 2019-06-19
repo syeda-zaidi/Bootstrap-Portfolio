@@ -37,6 +37,8 @@ p {
 
 .container {
     margin-top: 20px;
+    padding-bottom: 10px;
     border: 2px solid #cccccc;
     background-color: #ffffff;
 }
+
