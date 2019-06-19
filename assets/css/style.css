@@ -23,7 +23,7 @@ body {
 
 
 h3 {
-    padding: 20px;
+    padding:
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: #4aaaa5;
 }
@@ -42,3 +42,18 @@ p {
     background-color: #ffffff;
 }
 
+.img-fluid {
+    width: 200px;
+    height: 200px;
+    position: relative;
+}
+
+.figure-caption {
+    background-color: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    color: #ffffff;
+    position: absolute;
+    bottom: 40px;
+    width: 200px;
+}
