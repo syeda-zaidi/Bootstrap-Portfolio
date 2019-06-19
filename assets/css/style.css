@@ -1,33 +1,26 @@
-.navbar {
-    padding: 20px;
+
+.nametag {
     background-color: #4aaaa5;
-    margin-top: 0;
-    margin-left: 20px;
+    padding: 20px;
     font-family: Georgia, 'Times New Roman', Times, serif;
-
-}
-
-.navbar-brand  {
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    color: #ffffff;
     font-size: 24px;
+    margin-left: 200px;
+    color: #ffffff;
 }
 
-.nav {
-    margin-right: 150px;
-    padding-top: 30px;
-
+.list-items {
+    margin-right: 200px;
 }
 
-.container-fluid {
+.navbar {
     border-bottom: 2px solid #cccccc;
+    margin-left: 0;
 }
 
-.container { 
-    margin-top: 20px;
-    border: 2px solid #dddddd;
-
+body {
+    background-color: #dddddd;
 }
+
 
 h3 {
     padding: 20px;
@@ -39,4 +32,11 @@ p {
     font-family: Arial, Helvetica, sans-serif;
     color: #777777;
     line-height: 30px;
+    text-align: justify;
+}
+
+.container {
+    margin-top: 20px;
+    border: 2px solid #cccccc;
+    background-color: #ffffff;
 }
