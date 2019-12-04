@@ -1,9 +1,9 @@
 
 .nametag {
-    background-color: #4aaaa5;
+    /* background-color: #4aaaa5; */
     padding: 20px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 24px;
+    /* font-family: Georgia, 'Times New Roman', Times, serif; */
+    font-size: 28px;
     margin-left: 200px;
     color: #ffffff;
 }
@@ -53,8 +53,8 @@ p {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 18px;
     color: #ffffff;
-    position: absolute;
-    bottom: 40px;
+    position: relative;
+    bottom: 60px;
     width: 300px;
 }
 
@@ -62,7 +62,7 @@ p {
     font-size: 12px;
     color: #cccccc;
     padding: 20px;
-    background-color: #666666;
+    background-color: #343a40;
     border-top: 5px solid #4aaaa5;
    
 }
