@@ -4,12 +4,13 @@
     padding: 20px;
     /* font-family: Georgia, 'Times New Roman', Times, serif; */
     font-size: 28px;
-    margin-left: 200px;
+    margin-left: 340px;
     color: #ffffff;
 }
 
 .list-items {
-    margin-right: 200px;
+    margin-right: 350px;
+    font-size: 20px;
 }
 
 .navbar {
@@ -56,6 +57,23 @@ p {
     position: relative;
     bottom: 60px;
     width: 300px;
+}
+
+.contact-links {
+    
+    background: #dddddd;
+    border: 1px solid #4aaaa5;
+    border-radius: 5px;
+    color: #4aaaa5;
+    display: inline-block;
+    margin-right: 10px;
+    margin-top: 10px;
+    padding:  10px ;
+    text-decoration: none;
+}
+
+.contact-links:hover {
+    color: #4aaaa5;
 }
 
 .footer {
